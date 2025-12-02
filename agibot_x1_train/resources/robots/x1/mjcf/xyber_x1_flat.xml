@@ -1,0 +1,6 @@
+<mujoco model = "zhiyuan scene">
+
+    <include file = "xyber_x1_serial.xml" />
+    <include file = "flat.xml" />
+
+</mujoco>
